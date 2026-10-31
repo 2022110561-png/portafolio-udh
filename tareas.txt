@@ -1,3 +1,5 @@
 Estudiar Git y GitHub
 Desarrollar proyectos universitarios
 Aprender programación
+Practicar estructuras de datos
+Desarrollar aplicaciones con Java
