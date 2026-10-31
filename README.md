@@ -1,3 +1,1 @@
-# Portafolio UDH
-Mi nombre es Patrick.
-Soy estudiante de Ingeniería de Sistema.
+# Portafolio UDH - Version B
